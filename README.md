@@ -1,2 +1,5 @@
 # sssom-files
-Semantic Entity Mapping Files - SSSOM TSV format
+
+Semantic Entity Mapping File Collections
+
+![sssom-banner](./sssom-banner.png)
